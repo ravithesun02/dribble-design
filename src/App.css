@@ -1,0 +1,17 @@
+.form-main {
+  width: 100vw;
+  max-width: 40rem;
+  padding: 15px;
+  margin: 0 auto;
+  height: 60vh;
+}
+
+.button-style {
+  width: 100%;
+  background-color: #5030dd;
+  color: white;
+}
+
+.btn :hover {
+  color: white;
+}

@@ -1,0 +1,24 @@
+.box-border {
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.box-border-active {
+    border: 1px solid #5040dd;
+    border-radius: 0.5rem;
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.heading {
+    font-weight: bold;
+}
+
+.subheading {
+    color: grey;
+    font-size: 0.8rem;
+}

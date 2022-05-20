@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  display: flex;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+code {
+  font-family: 'Inter', sans-serif;
+}
